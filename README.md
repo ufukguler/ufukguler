@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-##  [⚡ My personal website](https://ufukguler.github.io/)
 <img src="https://github-readme-stats.vercel.app/api?username=ufukguler&show_icons=true&theme=radical">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ufukguler&hide=TeX&layout=compact)
