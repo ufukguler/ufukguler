@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=ufukguler&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=ufukguler&show_icons=true&theme=radical&count_private=true">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ufukguler&hide=TeX&layout=compact)
-
 ### Interests
 [![](https://img.shields.io/badge/java-fb8532?style=for-the-badge&logo=java)]()
 [![](https://img.shields.io/badge/spring-fb8532?style=for-the-badge&logo=spring)]()
